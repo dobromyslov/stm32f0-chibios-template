@@ -1,6 +1,9 @@
 STM32F0 ChibiOS Template
 ========================
 
+**WARNING**
+I dislike ChibiOS and recommend another officially supported by main vendors technology stack for embedded development. See: https://github.com/dobromyslov/stm32f0-cmsis-cube-hal-freertos-template
+
 ChibiOS template project for STM32F0 MCU.
 Tested on STM32F0Discovery board.
 
